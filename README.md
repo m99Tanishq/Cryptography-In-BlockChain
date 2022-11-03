@@ -8,4 +8,8 @@ RSA is a public key algorithm widely used for secure data transmission. This is 
 
 In a Blockchain we have the concept of Private And Public Key Where Public Key is Visible And Used For Verification And Private Key Is Hidden And Used To Generate Signature And To Intiate A Transcation
 
+And In This We Will See A Demo How A Crypto Graphy Is Used In BlockChain
+
 Here Is A Demo Version Of It In Python
+
+![BTC](https://user-images.githubusercontent.com/97497412/199807308-a9fc7a14-cd53-45a2-90b3-3f6a855a6551.png)
